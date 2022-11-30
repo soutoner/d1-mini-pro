@@ -1,12 +1,12 @@
 # 01-blinking-led
 
-Let's interact with the built in LED. Let's discover also tests and lib functionality inside PlatformIO projects.
+Let's interact with the built in LED.
 
-Tutorial: https://www.arduino.cc/en/Tutorial/BuiltInExamples/Blink
+Functionality tutorial: https://www.arduino.cc/en/Tutorial/BuiltInExamples/Blink
 
 ## Concepts learned
 
-### LED methodology
+### LED blinking
 
 We need to set the LED pin at output. Note how convenient the `LED_BUILTIN` already points to the correct pin.
 
