@@ -1,4 +1,4 @@
-# 0-hello-world
+# 00-hello-world
 
 The idea was to create a program that simply puts "Hello world!" thorugh the serial monitor. With this we are more familiar with PlatformIO and the project.
 

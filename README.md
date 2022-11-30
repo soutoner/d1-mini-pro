@@ -2,8 +2,6 @@
 
 In this repo you can find different IoT projects powered by D1 Mini Pro and Platform IO. They are listed from lower to higher complexity.
 
-- 00-hello-world - Simple 'Hello world!'
-
 ## How to open a project
 
 1. Clone the project in some folder, e.g. `~/projects/iot-playground`
